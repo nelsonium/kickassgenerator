@@ -1,0 +1,15 @@
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\UI.WIndows\bin\Debug\UI.WIndows.exe.config
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\UI.WIndows\bin\Debug\UI.WIndows.exe
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\UI.WIndows\bin\Debug\UI.WIndows.pdb
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\UI.WIndows\bin\Debug\KickAssSystemGenerator.exe
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\UI.WIndows\bin\Debug\KickAssSystemGenerator.pdb
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\UI.WIndows\bin\Debug\KickAssSystemGenerator.exe.config
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\UI.WIndows\obj\Debug\UI.WIndows.csprojAssemblyReference.cache
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\UI.WIndows\obj\Debug\UI.WIndows.Form1.resources
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\UI.WIndows\obj\Debug\UI.WIndows.HTMLDesign.resources
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\UI.WIndows\obj\Debug\UI.WIndows.Properties.Resources.resources
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\UI.WIndows\obj\Debug\UI.WIndows.csproj.GenerateResource.cache
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\UI.WIndows\obj\Debug\UI.WIndows.csproj.CoreCompileInputs.cache
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\UI.WIndows\obj\Debug\UI.WIndows.csproj.CopyComplete
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\UI.WIndows\obj\Debug\UI.WIndows.exe
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\UI.WIndows\obj\Debug\UI.WIndows.pdb

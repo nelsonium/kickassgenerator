@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KickAssSystemGenerator", "KickAssSystemGenerator\KickAssSystemGenerator.csproj", "{1A72A42B-3353-4173-9017-0D5B272C52E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.WIndows", "UI.WIndows\UI.WIndows.csproj", "{0DB881AA-CC69-4A80-9930-EA5BB7D52AD0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0FD846E6-6C06-4EFF-AB41-652C716B9ED8}"
+	ProjectSection(SolutionItems) = preProject
+		Samples.php = Samples.php
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A72A42B-3353-4173-9017-0D5B272C52E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A72A42B-3353-4173-9017-0D5B272C52E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A72A42B-3353-4173-9017-0D5B272C52E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A72A42B-3353-4173-9017-0D5B272C52E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB881AA-CC69-4A80-9930-EA5BB7D52AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB881AA-CC69-4A80-9930-EA5BB7D52AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB881AA-CC69-4A80-9930-EA5BB7D52AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB881AA-CC69-4A80-9930-EA5BB7D52AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://nelsonium.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = KickAssSystemGenerator\\KickAssSystemGenerator.csproj
+		SccProjectName1 = KickAssSystemGenerator
+		SccLocalPath1 = KickAssSystemGenerator
+		SccProjectUniqueName2 = UI.WIndows\\UI.WIndows.csproj
+		SccProjectName2 = UI.WIndows
+		SccLocalPath2 = UI.WIndows
+	EndGlobalSection
+EndGlobal

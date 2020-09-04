@@ -1,0 +1,7 @@
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\KickAssSystemGenerator\bin\Debug\KickAssSystemGenerator.exe.config
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\KickAssSystemGenerator\bin\Debug\KickAssSystemGenerator.exe
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\KickAssSystemGenerator\bin\Debug\KickAssSystemGenerator.pdb
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\KickAssSystemGenerator\obj\Debug\KickAssSystemGenerator.csprojAssemblyReference.cache
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\KickAssSystemGenerator\obj\Debug\KickAssSystemGenerator.csproj.CoreCompileInputs.cache
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\KickAssSystemGenerator\obj\Debug\KickAssSystemGenerator.exe
+C:\Users\nelso\Source\Workspaces\KickAssProject\KickAssSystemGenerator\KickAssSystemGenerator\obj\Debug\KickAssSystemGenerator.pdb
